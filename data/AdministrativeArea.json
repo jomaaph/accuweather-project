@@ -1,0 +1,81 @@
+
+    {
+        "ID":"L",
+        "LocalizedName":"Lim\u00f3n",
+        "EnglishName":"Lim\u00f3n",
+        "Level":1,
+        "LocalizedType":"Province",
+        "EnglishType":"Province",
+        "CountryID":"CR"
+    }
+
+    {
+        "ID":"IN",
+        "LocalizedName":"Indiana",
+        "EnglishName":"Indiana",
+        "Level":1,
+        "LocalizedType":"State",
+        "EnglishType":"State",
+        "CountryID":"US"
+    }
+
+    {
+        "ID":"OH",
+        "LocalizedName":"Ohio",
+        "EnglishName":"Ohio",
+        "Level":1,
+        "LocalizedType":"State",
+        "EnglishType":"State",
+        "CountryID":"US"
+    }
+
+    {
+        "ID":"OW",
+        "LocalizedName":"Orange Walk",
+        "EnglishName":"Orange Walk",
+        "Level":1,
+        "LocalizedType":"District",
+        "EnglishType":"District",
+        "CountryID":"BZ"
+    }
+
+    {
+        "ID":"E",
+        "LocalizedName":"Esmeraldas",
+        "EnglishName":"Esmeraldas",
+        "Level":1,
+        "LocalizedType":"Province",
+        "EnglishType":"Province",
+        "CountryID":"EC"
+    }
+
+    {
+        "ID":"M",
+        "LocalizedName":"Manab\u00ed",
+        "EnglishName":"Manab\u00ed",
+        "Level":1,
+        "LocalizedType":"Province",
+        "EnglishType":"Province",
+        "CountryID":"EC"
+    }
+
+    {
+        "ID":"1",
+        "LocalizedName":"Bocas del Toro",
+        "EnglishName":"Bocas del Toro",
+        "Level":1,
+        "LocalizedType":"Province",
+        "EnglishType":"Province",
+        "CountryID":"PA"
+    }
+
+    {
+        "ID":"C",
+        "LocalizedName":"Apure",
+        "EnglishName":"Apure",
+        "Level":1,
+        "LocalizedType":"State",
+        "EnglishType":"State",
+        "CountryID":"VE"
+    }
+
